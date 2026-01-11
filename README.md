@@ -89,6 +89,7 @@ project/
 ├── requirements.txt
 └── README.md
 
+
 🔍 Methodology
 1️⃣ Long-Context Handling
 
@@ -195,8 +196,10 @@ id	prediction	rationale
 This project demonstrates a practical, scalable approach to long-context claim verification using modern LLMs.
 It prioritizes robustness, explainability, and evidence grounding, making it suitable for real-world deployment and evaluation.
 
+
 👤 Authors:
 Team Tech4change
+
 
 Kharagpur Data Science Hackathon 2026
 Track A Submission
